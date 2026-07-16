@@ -1,12 +1,6 @@
 
 ### Olá prazer!!!! Eu sou o Érico Peixoto!! 👋👋👋
 
-
-
-![EricoPeixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=ericopeixoto&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericopeixoto&layout=compact)](https://github.com/ericopeixoto/github-readme-stats)
-
 ##Tecnologias que estou estudando atualmente....pretendo estudar outras em seguida.
 
 <div style ="display: inline_block" ><br/>
